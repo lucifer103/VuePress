@@ -1,5 +1,4 @@
 ---
-
 title: Navicat Premium 的安装与注册
 
 meta:
@@ -16,16 +15,11 @@ tags:
   - Database
   - Navicat Premium
   - DevTool
-
----
-
-## 下载
+---## 下载
 
 1. 前往 [Navicat | 下载 Navicat Premium 14 天免费 Windows、macOS 和 Linux 的试用版](https://www.navicat.com.cn/download/navicat-premium) 下载链接，根据自己的系统选择合适的安装包。
 
-2. 下载 `Navicat Premium` 注册机：  
-链接：[https://pan.baidu.com/s/1KbBUXZjw2_pIfhP8tUw9JA](https://pan.baidu.com/s/1KbBUXZjw2_pIfhP8tUw9JA)  
-提取码：vw53
+2. 下载 `Navicat Premium` 注册机：[https://www.aliyundrive.com/s/FFcshNcktyD](https://www.aliyundrive.com/s/FFcshNcktyD)  
 
 ## 安装
 
