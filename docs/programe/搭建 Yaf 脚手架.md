@@ -20,13 +20,13 @@ tags:
 
 1. 首先通过 phpinfo 确认自己的 PHP 版本是 TS 还是 NTS
 
-![file](https://qiniuyun.learnku.fit/vuepress/%E6%90%AD%E5%BB%BA%20Yaf%20%E8%84%9A%E6%89%8B%E6%9E%B6/thread-safety.png)
+![file](https://cdn.vuepress.learnku.fit/%E6%90%AD%E5%BB%BA%20Yaf%20%E8%84%9A%E6%89%8B%E6%9E%B6/thread-safety.png)
 
 2. 前往 [PECL 官网](http://pecl.php.net/package/yaf) 下载扩展
 
-![file](https://qiniuyun.learnku.fit/vuepress/%E6%90%AD%E5%BB%BA%20Yaf%20%E8%84%9A%E6%89%8B%E6%9E%B6/dll.png)
+![file](https://cdn.vuepress.learnku.fit/%E6%90%AD%E5%BB%BA%20Yaf%20%E8%84%9A%E6%89%8B%E6%9E%B6/dll.png)
 
-![file](https://qiniuyun.learnku.fit/vuepress/%E6%90%AD%E5%BB%BA%20Yaf%20%E8%84%9A%E6%89%8B%E6%9E%B6/download.png)
+![file](https://cdn.vuepress.learnku.fit/%E6%90%AD%E5%BB%BA%20Yaf%20%E8%84%9A%E6%89%8B%E6%9E%B6/download.png)
 
 3. 解压之后将文件夹中的 **php_yaf.dll** 文件剪切到 PHP 的扩展目录
 
@@ -34,11 +34,11 @@ tags:
 扩展目录根据自己的情况来判断，不要照搬哈 ~
 :::
 
-![file](https://qiniuyun.learnku.fit/vuepress/%E6%90%AD%E5%BB%BA%20Yaf%20%E8%84%9A%E6%89%8B%E6%9E%B6/extension_dir.png)
+![file](https://cdn.vuepress.learnku.fit/%E6%90%AD%E5%BB%BA%20Yaf%20%E8%84%9A%E6%89%8B%E6%9E%B6/extension_dir.png)
 
 4. 修改 PHP 配置文件
 
-![file](https://qiniuyun.learnku.fit/vuepress/%E6%90%AD%E5%BB%BA%20Yaf%20%E8%84%9A%E6%89%8B%E6%9E%B6/ini.png)
+![file](https://cdn.vuepress.learnku.fit/%E6%90%AD%E5%BB%BA%20Yaf%20%E8%84%9A%E6%89%8B%E6%9E%B6/ini.png)
 
 在适当的位置添加以下代码：
 
@@ -55,7 +55,7 @@ yaf.use_spl_autoload=1
 可能需要重启电脑才会生效
 :::
 
-![file](https://qiniuyun.learnku.fit/vuepress/%E6%90%AD%E5%BB%BA%20Yaf%20%E8%84%9A%E6%89%8B%E6%9E%B6/success.png)
+![file](https://cdn.vuepress.learnku.fit/%E6%90%AD%E5%BB%BA%20Yaf%20%E8%84%9A%E6%89%8B%E6%9E%B6/success.png)
 
 ## 安装脚手架
 
@@ -69,4 +69,4 @@ yaf.use_spl_autoload=1
 
 3. 最后配置 Nginx 站点即可运行 :tada:
 
-![file](https://qiniuyun.learnku.fit/vuepress/%E6%90%AD%E5%BB%BA%20Yaf%20%E8%84%9A%E6%89%8B%E6%9E%B6/website.png)
+![file](https://cdn.vuepress.learnku.fit/%E6%90%AD%E5%BB%BA%20Yaf%20%E8%84%9A%E6%89%8B%E6%9E%B6/website.png)

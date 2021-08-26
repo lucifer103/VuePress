@@ -27,7 +27,9 @@ tags:
 
 ## 找到正确的 insert 语句
 
-1. 通过 MySQL 客户端工具将数据导出为 SQL，复制其中一行即可
+1. 通过页面手动添加一条数据
+
+2. 通过 MySQL 客户端工具将数据导出为 SQL，复制其中一行即可
 
 ```sql
 INSERT INTO `larabbs`.users (
@@ -60,7 +62,7 @@ VALUES (
     ),
 ```
 
-2. 将 VALUES 后的所有内容全部复制到 Excel 的第一个单元格内
+3. 将 VALUES 后的所有内容全部复制到 Excel 的第一个单元格内
 
 ```sql
 (
@@ -83,7 +85,7 @@ VALUES (
 
 1. 将上一步复制到 Excel 文件中的 SQL 语句分列整理成如下格式：
 
-![file](https://qiniuyun.learnku.fit/vuepress/%E9%80%9A%E8%BF%87%20Excel%20%E5%B0%86%E6%95%B0%E6%8D%AE%E5%AF%BC%E5%85%A5%20MySQL/Snipaste_2021-08-01_20-55-41.png)
+![file](https://cdn.vuepress.learnku.fit/%E9%80%9A%E8%BF%87%20Excel%20%E5%B0%86%E6%95%B0%E6%8D%AE%E5%AF%BC%E5%85%A5%20MySQL/Snipaste_2021-08-01_20-55-41.png)
 
 2. 接下来就是一些 Excel 的操作了，根据需求批量生成待新增的数据，格式需和第一行一致
 

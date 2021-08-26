@@ -17,7 +17,7 @@ tags:
 
 ### 安装某些需要 C++ 编译组件的模块时报错
 
-![file](/images/初试Python包管理工具/pip_error_1.png)
+![file](https://cdn.vuepress.learnku.fit/%E5%88%9D%E8%AF%95%20Python%20%E5%8C%85%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/pip_error_1.png)
 
 1. 前往 [Microsoft Visual C++ Build Tools 2015](http://go.microsoft.com/fwlink/?LinkId=691126) 下载微软官方提供的 C++ 运行库
 
@@ -48,7 +48,7 @@ index-url = https://pypi.tuna.tsinghua.edu.cn/simple/
 
 4. 验证：执行 `pip config list` 命令，输出信息如下图则代表设置生效
 
-![file](/images/初试Python包管理工具/pip_mirror_verify.png)
+![file](https://cdn.vuepress.learnku.fit/%E5%88%9D%E8%AF%95%20Python%20%E5%8C%85%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/pip_mirror_verify.png)
 
 :::tip
 使用非 HTTPS 加密源（如阿里云源），在执行命令发生错误，需要在命令最后加上 `--trusted-host mirrors.aliyun.com`  

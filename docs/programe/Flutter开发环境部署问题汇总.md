@@ -20,27 +20,27 @@ tags:
 
 ### 说明
 
-![file](/images/Flutter开发环境部署问题汇总/question_one_1.png)
+![file](https://cdn.vuepress.learnku.fit/Flutter%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%83%A8%E7%BD%B2%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/question_one_1.png)
 
-![file](/images/Flutter开发环境部署问题汇总/question_one_2.png)
+![file](https://cdn.vuepress.learnku.fit/Flutter%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%83%A8%E7%BD%B2%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/question_one_2.png)
 
 ### 解决方法
 
 1. 点击左上角 `File` 菜单，选择 `Project Structure`
 
-![file](/images/Flutter开发环境部署问题汇总/question_one_3.png)
+![file](https://cdn.vuepress.learnku.fit/Flutter%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%83%A8%E7%BD%B2%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/question_one_3.png)
 
 2. 在 `Project SDK` 下选择 `Andriod SDK`
 
-![file](/images/Flutter开发环境部署问题汇总/question_one_4.png)
+![file](https://cdn.vuepress.learnku.fit/Flutter%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%83%A8%E7%BD%B2%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/question_one_4.png)
 
 3. 依次点击右下角的 `Apply` 和 `Ok` 按钮确认配置
 
-![file](/images/Flutter开发环境部署问题汇总/question_one_5.png)
+![file](https://cdn.vuepress.learnku.fit/Flutter%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%83%A8%E7%BD%B2%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/question_one_5.png)
 
 4. 之后就可以自动检测到你所安装的虚拟机了
 
-![file](/images/Flutter开发环境部署问题汇总/question_one_6.png)
+![file](https://cdn.vuepress.learnku.fit/Flutter%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%83%A8%E7%BD%B2%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/question_one_6.png)
 
 ---
 
@@ -48,7 +48,7 @@ tags:
 
 ### 说明
 
-![file](/images/Flutter开发环境部署问题汇总/question_two_1.png)
+![file](https://cdn.vuepress.learnku.fit/Flutter%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%83%A8%E7%BD%B2%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/question_two_1.png)
 
 ### 解决方法
 

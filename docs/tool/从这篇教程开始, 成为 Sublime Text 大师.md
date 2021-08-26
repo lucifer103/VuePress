@@ -15,7 +15,7 @@ tags:
   - DevTool
   - IDE
 
-banner: https://qiniuyun.learnku.fit/banner/gdmJxS6XQe.jpg
+banner: https://cdn.vuepress.learnku.fit/banner/gdmJxS6XQe.jpg
 ---
 
 开发比较复杂的项目之时，专业的编辑器 PHPStorm 当然是最佳选择，但是无奈电脑内存太小 (正在凑钱买新的 MBP) 以及速度上的追求，并不想放弃 Sublime 神器，某日游览 Laracast，看到 Jeffrey 在 Laracast 上的秘籍，终于得偿所愿，将手中的 Sublime 打造成利器，媲美 PHPStorm 和 Vim。
@@ -32,7 +32,7 @@ Package Control 是一个为了方便管理插件的插件。安装过程可以�
 
 想要开发一个赏心悦目的产品，除了一个比较好的审美素养之外，开发工具的面子自然不能太 low。
 
-![file](https://qiniuyun.learnku.fit/vuepress/sublime/theme.png)
+![file](https://cdn.vuepress.learnku.fit/sublime/theme.png)
 
 个人主题：Material Theme
 
@@ -63,7 +63,7 @@ Theme 也有很多细节配置，大家自行探索，有需要的时候去搜�
 
 [SublimeLinter](https://packagecontrol.io/search/SublimeLinter) 代码检查的功能，也是我的必备工具之一。强大之处在于， 用高亮提示用户编写的代码中存在的不规范和错误的写法，支持 JavaScript、CSS、HTML、Java、PHP、Python、Ruby 等十多种开发语言。
 
-![file](https://qiniuyun.learnku.fit/vuepress/sublime/sublimelinter.png)
+![file](https://cdn.vuepress.learnku.fit/sublime/sublimelinter.png)
 
 个人平时工作生活写代码用的都是 PHP，所以把 SublimeLinter-php、SublimeLinter-phplint、SublimeLinter-phpcs、SublimeLinter-phpmd 都装了个遍。至于怎么玩，自己研究去吧～因为要 SublimeLinter-phpcs、SublimeLinter-phpmd 可能会折腾你很久。我自己也没能找到一个万用教程，总有时候会不起作用。所以真的要用就自己折腾或者也可以来问我。
 
@@ -113,7 +113,7 @@ Theme 也有很多细节配置，大家自行探索，有需要的时候去搜�
 
 通过 Package Install 检索 Laravel 5 Artisan，成功安装之后，我们就可以在 Sublime 中直接执行 Artisan Command。比如，我需要新建一个 Controller：
 
-![file](https://qiniuyun.learnku.fit/vuepress/sublime/artisan.png)
+![file](https://cdn.vuepress.learnku.fit/sublime/artisan.png)
 
 很是方便。
 

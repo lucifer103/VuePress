@@ -36,7 +36,7 @@ meta:
 
 费曼学习法，世界上最好的学习法，用通俗易懂的话来说，就是：`通过向别人清楚的解说某一件事，来确认自己是否真正弄懂了这件事。`
 
-![关于我](/images/about/VHMqWG0C8dJykAjp.png)
+![关于我](https://cdn.vuepress.learnku.fit/VHMqWG0C8dJykAjp.png)
 
 ### 1. 选择目标
 

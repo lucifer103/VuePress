@@ -10,30 +10,27 @@ module.exports = {
   nameplate,
   // 文章随机封面
   postCover: [
-    "https://qiniuyun.learnku.fit/1039d85f155ebe572ff56f90a626b7a1.jpg",
-    "https://qiniuyun.learnku.fit/259d10ede304468d1c12df2f49ed2afd.jpg",
-    "https://qiniuyun.learnku.fit/56e0e59e0ab812163e669e6ed52f7fa3.jpg",
-    "https://qiniuyun.learnku.fit/6f6ca5b0cb3bc43e5895911cc40a343d.jpg",
-    "https://qiniuyun.learnku.fit/766bb99cdfea168a5611d5ed3ee87e6a.jpg",
-    "https://qiniuyun.learnku.fit/abea283e65f3460e6f33383dceec550b.jpg",
-    "https://qiniuyun.learnku.fit/b49fa49c69ff125aff9a08b177f94cec.jpg",
-    "https://qiniuyun.learnku.fit/bae275e9f50a46e61498e227df586eb9.jpg",
-    "https://qiniuyun.learnku.fit/bc8cd22dd19d42b85dfa8abc871215bf.jpg",
-    "https://qiniuyun.learnku.fit/d4650c2a40868b84eda513bca9d13513.jpg",
-    "https://qiniuyun.learnku.fit/eb92164f38952ef26315499f112b963a.jpg",
-    "https://qiniuyun.learnku.fit/fb03a35ac8a7ca43a69b89c298b2165a.jpg",
+    "https://cdn.vuepress.learnku.fit/1039d85f155ebe572ff56f90a626b7a1.jpg",
+    "https://cdn.vuepress.learnku.fit/259d10ede304468d1c12df2f49ed2afd.jpg",
+    "https://cdn.vuepress.learnku.fit/56e0e59e0ab812163e669e6ed52f7fa3.jpg",
+    "https://cdn.vuepress.learnku.fit/6f6ca5b0cb3bc43e5895911cc40a343d.jpg",
+    "https://cdn.vuepress.learnku.fit/766bb99cdfea168a5611d5ed3ee87e6a.jpg",
+    "https://cdn.vuepress.learnku.fit/abea283e65f3460e6f33383dceec550b.jpg",
+    "https://cdn.vuepress.learnku.fit/b49fa49c69ff125aff9a08b177f94cec.jpg",
+    "https://cdn.vuepress.learnku.fit/bae275e9f50a46e61498e227df586eb9.jpg",
+    "https://cdn.vuepress.learnku.fit/bc8cd22dd19d42b85dfa8abc871215bf.jpg",
+    "https://cdn.vuepress.learnku.fit/d4650c2a40868b84eda513bca9d13513.jpg",
+    "https://cdn.vuepress.learnku.fit/eb92164f38952ef26315499f112b963a.jpg",
+    "https://cdn.vuepress.learnku.fit/fb03a35ac8a7ca43a69b89c298b2165a.jpg",
   ],
   //打赏图片
-  reward: [
-    "https://qiniuyun.learnku.fit/%E5%BE%AE%E4%BF%A1%E8%B5%9E%E8%B5%8F%E7%A0%81.png",
-    "https://qiniuyun.learnku.fit/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%B6%E6%AC%BE%E7%A0%81.png",
-  ],
+  reward: ["https://cdn.vuepress.learnku.fit/%E5%BE%AE%E4%BF%A1%E8%B5%9E%E8%B5%8F%E7%A0%81.png", "https://cdn.vuepress.learnku.fit/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%B6%E6%AC%BE%E7%A0%81.png"],
   // 开启友链的页面
   links,
   // 开启关于我的页面
   about: true,
   //cdn
-  //cdn: 'https://qiniuyun.learnku.fit'
+  //cdn: 'https://cdn.vuepress.learnku.fit'
   // 页脚备案信息
   beiAn: "晋 ICP 备 20002124 号",
   // 生成 sitemap
