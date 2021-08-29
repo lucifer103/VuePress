@@ -1,9 +1,9 @@
 ---
-title: 同一台电脑管理多个 Git 账号.md
+title: 同一台电脑管理多个 Git 账号
 
 meta:
   - name: description
-    content: 同一台电脑管理多个 Git 账号.md
+    content: 同一台电脑管理多个 Git 账号
   - name: keywords
     content: Git,Github,Gitlab,Gitee
 
